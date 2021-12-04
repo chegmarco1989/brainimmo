@@ -1,5 +1,5 @@
-# brainimmo
-Petit CRUD fait en PHP Laravel - Jquery DataTable - JS pour gérer des bien immobilier
+# Brainimmo
+Small CRUD made in PHP Laravel - Jquery DataTable - JS to manage real estate (Petit CRUD fait en PHP Laravel - Jquery DataTable - JS pour gérer des bien immobilier)
 
 ## 1. Clone project and install: 
 ```
