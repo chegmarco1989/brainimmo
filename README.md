@@ -50,3 +50,10 @@ OR:
 ```
 http://localhost:8000
 ```
+
+# VERY IMPORTANT:
+To access or use API, just try if with Postman (https://www.postman.com/) using this endpoint:
+
+```
+http://localhost:8000/api/posts
+```
