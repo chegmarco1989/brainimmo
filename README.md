@@ -53,7 +53,7 @@ php artisan migrate
 php artisan serve
 ```
 
-## 10 - Go to in Chrome or Firefox browser:
+## 10 - In Chrome or Firefox browser, go to:
 ```
 http://127.0.0.1:8000
 ```
