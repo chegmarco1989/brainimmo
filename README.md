@@ -3,27 +3,27 @@ Petit CRUD fait en PHP Laravel - Jquery DataTable - JS pour gérer des bien immo
 
 # INSTALLATION: 
 
-## 1 - Run:
+## 1 - Run in your terminal:
 ```
 git clone https://github.com/chegmarco1989/brainimmo.git braintechimmo
 ```
 
-## 2 - Run:
+## 2 - Run in your terminal:
 ```
 cd braintechimmo
 ```
 
-## 3 - Run:
+## 3 - Run in your terminal:
 ```
 composer install
 ```
 
-## 4 - Run:
+## 4 - Run in your terminal:
 ```
 npm install
 ```
 
-## 5 - Run:
+## 5 - Run in your terminal:
 ```
 cp .env.example .env
 ```
@@ -38,17 +38,17 @@ DB_USERNAME=root
 DB_PASSWORD=.....
 ```
 
-## 7 - Run:
+## 7 - Run in your terminal:
 ```
 php artisan key:generate
 ```
 
-## 8 - Run:
+## 8 - Run in your terminal:
 ```
 php artisan migrate
 ```
 
-## 9 - Run:
+## 9 - Run in your terminal:
 ```
 php artisan serve
 ```
